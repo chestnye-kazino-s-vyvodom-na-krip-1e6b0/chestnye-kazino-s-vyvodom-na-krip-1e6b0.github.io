@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: chestnye-kazino-s-vyvodom-na-krip-1e6b0.github.io
+Sitemap: https://chestnye-kazino-s-vyvodom-na-krip-1e6b0.github.io/sitemap.xml
